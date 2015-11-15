@@ -26,6 +26,11 @@
  	color: white;
  }
 
-body {
- font-family: 'Ubuntu', sans-serif;
+@import url(http://fonts.googleapis.com/css?family=Crafty+Girls);
+
+h1 {
+font-family: 'Crafty Girls', cursive;
+}
+
+h2 {font-family: 'Crafty Girls', cursive;
 }

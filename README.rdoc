@@ -1,5 +1,10 @@
 == README
 
+11_14_15 - Added "The Pizzaco to the menu and uploaded new home page photo."
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
